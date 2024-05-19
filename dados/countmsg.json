@@ -1,1 +1,118 @@
-[]
+[
+  {
+    "groupId": "120363272616031703@g.us",
+    "numbers": [
+      {
+        "id": "34613282746@s.whatsapp.net",
+        "messages": 2,
+        "figus": 0,
+        "cmd_messages": 2,
+        "aparelho": "Android ツ",
+        "nick": "Bryan Dutra"
+      }
+    ]
+  },
+  {
+    "groupId": "5511953434858-1635543725@g.us",
+    "numbers": [
+      {
+        "id": "5511953434858@s.whatsapp.net",
+        "messages": 2,
+        "figus": 0,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ",
+        "nick": "Alison"
+      },
+      {
+        "id": "34865789020@s.whatsapp.net",
+        "messages": 0,
+        "cmd_messages": 1,
+        "aparelho": "Android ツ",
+        "figus": 0,
+        "nick": "Bryan"
+      },
+      {
+        "id": "34613282746@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 2,
+        "aparelho": "Android ツ",
+        "figus": 0,
+        "nick": "Bryan Dutra"
+      },
+      {
+        "id": "555193305017@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 1,
+        "aparelho": "Android ツ",
+        "figus": 1,
+        "nick": "dudu.zx01"
+      },
+      {
+        "id": "556593570459@s.whatsapp.net",
+        "messages": 2,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ",
+        "figus": 0,
+        "nick": "#?Ailton"
+      }
+    ]
+  },
+  {
+    "groupId": "120363043392567405@g.us",
+    "numbers": [
+      {
+        "id": "34865789020@s.whatsapp.net",
+        "messages": 2,
+        "figus": 0,
+        "cmd_messages": 2,
+        "aparelho": "Android ツ",
+        "nick": "Bryan"
+      },
+      {
+        "id": "554588214774@s.whatsapp.net",
+        "messages": 10,
+        "cmd_messages": 0,
+        "aparelho": "IPhone ｯ",
+        "figus": 1,
+        "nick": "Biel "
+      },
+      {
+        "id": "558198923680@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ",
+        "figus": 0,
+        "nick": "Josival Ribeiro"
+      },
+      {
+        "id": "558186663773@s.whatsapp.net",
+        "messages": 10,
+        "cmd_messages": 0,
+        "aparelho": "WhatsApp web シ",
+        "figus": 0,
+        "nick": "Gustavo"
+      },
+      {
+        "id": "5512974090637@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ",
+        "figus": 0,
+        "nick": "Pedro Rafael"
+      }
+    ]
+  },
+  {
+    "groupId": "120363237816772163@g.us",
+    "numbers": [
+      {
+        "id": "34865789020@s.whatsapp.net",
+        "messages": 2,
+        "figus": 0,
+        "cmd_messages": 2,
+        "aparelho": "Android ツ",
+        "nick": "Bryan"
+      }
+    ]
+  }
+]
