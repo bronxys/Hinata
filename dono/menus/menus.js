@@ -132,6 +132,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │🈂️▹ ${prefix}esporte_noticias
 │🈂️▹ ${prefix}celular ( Ex: Galaxy a9 )
 │🈂️▹ ${prefix}Gtts (LINGUAGEM + TEXTO)
+│🈂️▹ ${prefix}imagine+18
 │🈂️▹ ${prefix}Tagme 
 │🈂️▹ ${prefix}Emoji 😏/whatsapp
 │🈂️▹ ${prefix}Emojimix 😉+🙂
@@ -168,6 +169,8 @@ const adms = (prefix, sender) => {
 │🈂️▹ ${prefix}so_adm
 │🈂️▹ ${prefix}listanegra (NUMERO)
 │🈂️▹ ${prefix}tirardalista (NUMERO)
+│🈂️▹ ${prefix}autodown(baixar automatico)
+│🈂️▹ ${prefix}autoconversa(hinata ia)
 │🈂️▹ ${prefix}listanegraG (NÚMERO)
 │🈂️▹ ${prefix}tirardalistaG (NÚMERO)
 │🈂️▹ ${prefix}Kick [@] (pra-remover) 
