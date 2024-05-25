@@ -167,6 +167,9 @@ const adms = (prefix, sender) => {
 ╞───────────────┘
 │🈂️▹ ${prefix}ativacoes
 │🈂️▹ ${prefix}so_adm
+│🈂️▹ ${prefix}fechar(fechar 18:18 Grupo ira fechar esse horario)
+│🈂️▹ ${prefix}abrir(abrir 18:18 Grupo ira abrir esse horario)
+│🈂️▹ ${prefix}inativos
 │🈂️▹ ${prefix}listanegra (NUMERO)
 │🈂️▹ ${prefix}tirardalista (NUMERO)
 │🈂️▹ ${prefix}autodown(baixar automatico)
